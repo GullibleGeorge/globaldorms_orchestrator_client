@@ -1,6 +1,6 @@
 # Global Dorm Orchestrator
 
-A Spring Boot application for managing student accommodation, paired with a Python client for programmatic and interactive access. The system provides room searching, application management, distance calculations, and weather forecasts.
+A Spring Boot application for managing student accommodation, paired with a Python client for interactive access. The system provides room searching, application management, distance calculations, and weather forecasts.
 
 This project was coursework assigned to me during my BSc Computer Science degree. Final Year, Service-Centric and Cloud Computing module.
 
@@ -53,7 +53,7 @@ This project was coursework assigned to me during my BSc Computer Science degree
 1. Clone the repository:
 
 ```
-git clone <repository_url>
+git clone https://github.com/GullibleGeorge/globaldorms_orchestrator_client.git
 cd orchestrator
 ```
 
@@ -74,7 +74,7 @@ The application will run on `http://localhost:8080`.
 ---
 
 ## Python Client
-The client allows interactive usage or programmatic integration with the orchestrator.
+The client allows interactive usage with the orchestrator.
 
 ### Installation
 
