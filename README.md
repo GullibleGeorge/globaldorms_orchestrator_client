@@ -2,6 +2,8 @@
 
 A Spring Boot application for managing student accommodation, paired with a Python client for programmatic and interactive access. The system provides room searching, application management, distance calculations, and weather forecasts.
 
+This project was coursework assigned to me during my BSc Computer Science degree. Final Year, Service-Centric and Cloud Computing module.
+
 ## Table of Contents
 
 - [Features](#features)
